@@ -35,6 +35,5 @@ To run the tests in the terminal, run `npm test`. Every time you make a change a
 
 
 ## BONUS
-If you finished early, then you can go through this tutorial: https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript
+If you finished early, check out [Slips](https://ga-dc.github.io/slips/)
 
-Feel free to try to compile and execute the code snippets from this tutorial in your code editor!
