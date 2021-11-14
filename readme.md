@@ -1,5 +1,7 @@
 # JavaScript Checkpoint
 
+### SEIR 1018 November 15, 2021
+
 ## Before You Start
 1. Download this repo to your `sei/labs` folder. `git clone [url]`
 2. Navigate into this repo. `cd checkpoint-javascript/`
@@ -34,6 +36,8 @@ To run the tests in the terminal, run `npm test`. Every time you make a change a
 > HINT: read the output of the failing tests.
 
 
+> You may run these commands in Node as well, but working with the Tests is going to be good practice 
+
 ## BONUS
-If you finished early, check out [Slips](https://ga-dc.github.io/slips/)
+If you finished early, check out [Slips](https://ga-dc.github.io/slips/). An assortment of random technical questions for you to assess your knowledge.
 
